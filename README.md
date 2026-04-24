@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here you can find a collection of the practical an
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 **Other Technologies & Industrial Software:**
-![VHDL](https://img.shields.io/badge/VHDL-005C84?style=for-the-badge) ![CODESYS](https://img.shields.io/badge/CODESYS-E3000F?style=for-the-badge) ![FactoryIO](https://img.shields.io/badge/Factory_I/O-2B3137?style=for-the-badge) ![UPPAAL](https://img.shields.io/badge/UPPAAL-4B0082?style=for-the-badge) ![PIPE](https://img.shields.io/badge/PIPE-008080?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-005C84?style=for-the-badge) ![CODESYS](https://img.shields.io/badge/CODESYS-E3000F?style=for-the-badge) ![FactoryIO](https://img.shields.io/badge/Factory_I/O-2B3137?style=for-the-badge) ![UPPAAL](https://img.shields.io/badge/UPPAAL-4B0082?style=for-the-badge) ![PIPE](https://img.shields.io/badge/PIPE-008080?style=for-the-badge) ![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolframlanguage&logoColor=white)
 
 **Currently Studying:**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
