@@ -41,8 +41,8 @@ I have organized my repositories into dedicated lists.
 ---
 
 ### 📫 Get in Touch
-- **LinkedIn:** [Insert your LinkedIn link here]
-- **Email:** [giu.coppola134]
+- **LinkedIn:** [Giuseppe Coppola](https://www.linkedin.com/in/giuseppe-coppola-9467a62b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- **Email:** giu.coppola134@gmail.com
 
 <!--
 **g-coppola/g-coppola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
