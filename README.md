@@ -1,5 +1,7 @@
 # Hi There, I'm Giuseppe Coppola! 👋🤖
 
+![Profile Views](https://komarev.com/ghpvc/?username=g-coppola&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
 ### 🎓 BSc in Computer Engineering | 🚀 MSc Student in Robotics and Automation Engineering @ Unical
 
 Welcome to my GitHub profile! Here you can find a collection of the practical and academic projects that have shaped my engineering journey, from my Bachelor's degree to my current Master's studies in Robotics and Automation.
