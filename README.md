@@ -25,15 +25,13 @@ Welcome to my GitHub profile! Here you can find a collection of the practical an
 
 ### 📂 My Projects
 
-#### 🎓 MSc Projects (Robotics & Automation)
-*My most recent and advanced academic works.*
-- [Project Name 1](Link_to_repo) - Brief description (e.g., Robotic arm control using ROS2).
-- [Project Name 2](Link_to_repo) - Brief description (e.g., System simulation in Simulink/MATLAB).
+I have organized my repositories into dedicated lists.
 
-#### 📜 BSc Projects (Computer Engineering)
-*The fundamentals of my engineering background.*
-- [Project Name 3](Link_to_repo) - Brief description (e.g., Object-oriented application in Java).
-- [Project Name 4](Link_to_repo) - Brief description.
+#### 🎓 [MSc Projects (Robotics & Automation)](https://github.com/stars/g-coppola/lists/robotics-automation-engineering)
+*My most recent and advanced academic works, focusing on robotics, control systems, and automation.*
+
+#### 📜 [BSc Projects (Computer Engineering)](https://github.com/stars/g-coppola/lists/computer-engineering)
+*The fundamentals of my engineering background, including software development and computer architecture.*
 
 ---
 
@@ -44,7 +42,7 @@ Welcome to my GitHub profile! Here you can find a collection of the practical an
 
 ### 📫 Get in Touch
 - **LinkedIn:** [Insert your LinkedIn link here]
-- **Email:** [Insert your email here]
+- **Email:** [giu.coppola134]
 
 <!--
 **g-coppola/g-coppola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
