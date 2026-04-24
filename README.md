@@ -31,7 +31,7 @@ I have organized my repositories into dedicated lists.
 *My most recent and advanced academic works, focusing on robotics, control systems, and automation.*
 
 #### 📜 [BSc Projects (Computer Engineering)](https://github.com/stars/g-coppola/lists/computer-engineering)
-*The fundamentals of my engineering background, including software development and computer architecture.*
+*The fundamentals of my engineering background, including software development.*
 
 ---
 
