@@ -37,12 +37,6 @@ I have organized my repositories into dedicated lists.
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=g-coppola&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=g-coppola&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Get in Touch
 - **LinkedIn:** [Giuseppe Coppola](https://www.linkedin.com/in/giuseppe-coppola-9467a62b0?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - **Email:** giu.coppola134@gmail.com
